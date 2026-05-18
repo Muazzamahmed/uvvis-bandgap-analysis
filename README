@@ -1,0 +1,28 @@
+# UV-Vis Bandgap Analysis
+
+This project demonstrates optical bandgap estimation from synthetic UV–Vis absorbance data using Tauc plot analysis.
+
+## Features
+- Synthetic UV–Vis dataset
+- Absorbance spectrum visualization
+- Photon energy conversion
+- Tauc plot generation
+- Optical bandgap estimation workflow
+
+## Physics Background
+Tauc analysis is commonly used in semiconductor physics and materials science to estimate the optical bandgap of thin-film materials from UV–Vis spectroscopy measurements.
+
+## Tools Used
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+
+## Applications
+- Semiconductor thin films
+- Transparent conducting oxides
+- Optoelectronic materials
+- UV-active oxide systems
+
+## Author
+Muazzam Ahmed
